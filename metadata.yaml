@@ -1,0 +1,30 @@
+_repo: IsblinkDigte-fra-den-gr-nlandske-Polarregion_43338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43338-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Erichsen, L. Mylius (Ludvig Mylius)
+    aliases:
+    - Mylius-Erichsen, Ludvig
+    - Erichsen, Ludvig Mylius
+    - Erichsen, Mylius
+    birthdate: 1872
+    deathdate: 1907
+    gutenberg_agent_id: '38521'
+    url: http://www.gutenberg.org/2009/agents/38521
+description: ''
+gutenberg_issued: '2013-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43338'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Greenland -- Poetry'
+title: 'Isblink: Digte fra den grønlandske Polarregion'
+url: http://www.gutenberg.org/ebooks/43338
